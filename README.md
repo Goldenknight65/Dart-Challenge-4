@@ -76,4 +76,4 @@
     - `updateProductQuantity(String id, int newQuantity)`: Updates the quantity of a product.
     - `addProduct(Product product)`: Adds a new product to the list.
 
-### **Have fun and happy coding! 😄**
+### **Have a blast and code with joy! 😄**
