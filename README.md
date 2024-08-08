@@ -1,4 +1,3 @@
----
 ### 💡 Challenge 4: E-Commerce System with JSON Data 🛒 
 **Here is a sample JSON data structure for the university courses:**
 ```
@@ -75,5 +74,6 @@
     - `listAllProducts()`: Lists all products with their details.
     - `updateProductQuantity(String id, int newQuantity)`: Updates the quantity of a product.
     - `addProduct(Product product)`: Adds a new product to the list.
-
+  
+---
 ### **Have a blast and code with joy! 😄**
